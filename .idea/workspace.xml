@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81c81034-b99c-4654-b08a-452f6bc74006" name="Changes" comment="Ejercicio5 completed">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Archivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Composite.java" afterDir="false" />
+    <list default="true" id="81c81034-b99c-4654-b08a-452f6bc74006" name="Changes" comment="Ejercicio3 completed">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/IServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/ServidorProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio3/enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/enunciado" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio4/enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/enunciado" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,13 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679457652564</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio3 completed">
+      <created>1679460350559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679460350559</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1 completed" />
     <MESSAGE value="Ejercicio2 completed" />
     <MESSAGE value="Ejercicio5 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio5 completed" />
+    <MESSAGE value="Ejercicio3 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio3 completed" />
   </component>
 </project>

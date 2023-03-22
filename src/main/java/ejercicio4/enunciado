@@ -2,4 +2,12 @@
 tiene la misma aplicación web, se tiene configurado un proxy que va almacenando a los
 usuarios que realizan login, todos los usuarios impares que ingresen con user y pwd
 correctos son atendidos por el servidor1 y los usuarios impares son atendidos por el
-servidor1.
+servidor2.
+
+Servidor -> Real subject
+ServidorProxy -> envia a servidor1 o servidor2
+IServer -> sbject
+Usuario -> concreteobject
+
+
+
