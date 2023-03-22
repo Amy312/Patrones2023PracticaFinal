@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81c81034-b99c-4654-b08a-452f6bc74006" name="Changes" comment="Ejercicio1 completed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/InsAgua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/InsAlcantarillado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/InsElectrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Instalacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/Pago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/PagoAppEmpresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/PagoTigoMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/PagoTransferencia.java" afterDir="false" />
+    <list default="true" id="81c81034-b99c-4654-b08a-452f6bc74006" name="Changes" comment="Ejercicio5 completed">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Archivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Composite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio2/enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio3/enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio4/enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/enunciado" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/Ambar/Documents/JavaProyects/Patrones2023PracticaFinal/src/main/java/ejercicio5"
   }
 }]]></component>
@@ -80,11 +78,27 @@
       <option name="project" value="LOCAL" />
       <updated>1679453914722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio2 completed">
+      <created>1679457551864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679457551864</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicio5 completed">
+      <created>1679457652564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679457652564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio1 completed" />
+    <MESSAGE value="Ejercicio2 completed" />
+    <MESSAGE value="Ejercicio5 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio5 completed" />
   </component>
 </project>
